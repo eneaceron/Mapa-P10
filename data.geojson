@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "name": "contexto_demo",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Centro Histórico (aprox.)"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -99.145,
+              19.444
+            ],
+            [
+              -99.145,
+              19.428
+            ],
+            [
+              -99.118,
+              19.428
+            ],
+            [
+              -99.118,
+              19.444
+            ],
+            [
+              -99.145,
+              19.444
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/* Estilos mínimos para ocupar toda la ventana con el mapa */
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+#map {
+  height: 100vh; /* toda la altura de la ventana */
+}
+
+.leaflet-popup-content {
+  font-size: 14px;
+  line-height: 1.3;
+}
